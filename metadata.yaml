@@ -1,0 +1,57 @@
+_repo: Memoirs-of-the-Princesse-de-Ligne-Vol-2-of-2_71051
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Ensor, Laura
+    gutenberg_agent_id: '25378'
+    url: http://www.gutenberg.org/2009/agents/25378
+creator:
+  author:
+    agent_name: Massalska, Apolonia Helena
+    aliases:
+    - Ligne, Appolline Hélène (Massalska) princesse de
+    - Ligne, Appolline Helene (Massalska) princesse de
+    - Ligne, Apolonia Helena de
+    - De Ligne, Apolonia Helena
+    - Potocka, Apolonia Helena de
+    - Potocka, Helena
+    - Massalska, Helena
+    - Massalska, Hélène
+    birthdate: 1763
+    deathdate: 1815
+    gutenberg_agent_id: '56024'
+    url: http://www.gutenberg.org/2009/agents/56024
+    wikipedia: https://en.wikipedia.org/wiki/Helena_Apolonia_Massalska
+  editor:
+    agent_name: Perey, Lucien
+    aliases:
+    - Herpin, Luce
+    - Herpin, Clara Adèle Luce
+    - Herpin, Clara Adele Luce
+    birthdate: 1825
+    deathdate: 1914
+    gutenberg_agent_id: '56034'
+    url: http://www.gutenberg.org/2009/agents/56034
+description: ''
+gutenberg_issued: '2023-06-26'
+identifiers:
+  gutenberg: '71051'
+language: en
+pgterms:marc904: https://archive.org/details/memoirsofprinces01pere https://archive.org/details/memoirsofprinces02pere
+pgterms:marc905: 20200830021939massalska
+pgterms:marc906: '1887'
+pgterms:marc907: GB
+production_note: MWS and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aUnited Kingdom :$bRichard Bentley & Son, $c1887.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Massalska, Apolonia Helena, 1763-1815'
+- !lcsh 'Ligne, Charles Joseph, prince de, 1735-1814'
+- !lcc 'D'
+- GITenberg
+title: Memoirs of the Princesse de Ligne, Vol. 2 (of 2)
+url: http://www.gutenberg.org/ebooks/71051
