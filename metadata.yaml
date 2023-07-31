@@ -5,6 +5,9 @@ contributor:
     agent_name: Ensor, Laura
     gutenberg_agent_id: '25378'
     url: http://www.gutenberg.org/2009/agents/25378
+covers:
+- cover_type: archival
+  image_path: 71051-h/images/cover.jpg
 creator:
   author:
     agent_name: Massalska, Apolonia Helena
@@ -33,6 +36,8 @@ creator:
     gutenberg_agent_id: '56034'
     url: http://www.gutenberg.org/2009/agents/56034
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71051#Memoirs-of-the-Princesse-de-Ligne-Vol-2-of-2
 gutenberg_issued: '2023-06-26'
 identifiers:
   gutenberg: '71051'
